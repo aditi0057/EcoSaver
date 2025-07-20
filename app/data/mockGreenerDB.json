@@ -1,0 +1,157 @@
+[
+
+
+  {
+    "id": "alt1",
+    "name": "Bamboo Water Bottle",
+    "brand": "EcoSip",
+    "material": "Bamboo",
+    "packaging": "Recycled Paper",
+    "ecoScore": 88,
+    "certifications": ["Fair Trade", "Plastic-Free"],
+    "breakdown": {
+      "water": 400,
+      "carbon": 6,
+      "recyclability": 90,
+      "packaging": "Recycled Paper",
+      "certifications": ["Fair Trade", "Plastic-Free"],
+      "ecoTip": "Switching saves 600L water"
+    }
+  },
+  {
+    "id": "alt2",
+    "name": "Plastic Cutlery Set",
+    "brand": "GreenBite",
+    "material": "Cornstarch",
+    "packaging": "Compostable",
+    "ecoScore": 85,
+    "certifications": ["Compostable", "Fair Trade"],
+    "breakdown": {
+      "water": 300,
+      "carbon": 8,
+      "recyclability": 90,
+      "packaging": "Compostable",
+      "certifications": ["Compostable"],
+      "ecoTip": "Reduces plastic waste by 90%"
+    }
+  },
+  {
+    "id": "alt3",
+    "name": "Refillable Dish Soap",
+    "brand": "EcoSudz",
+    "material": "Plant-Based",
+    "packaging": "Glass Bottle",
+    "ecoScore": 87,
+    "certifications": ["EcoCert"],
+    "breakdown": {
+      "water": 600,
+      "carbon": 9,
+      "recyclability": 95,
+      "packaging": "Glass Bottle",
+      "certifications": ["EcoCert"],
+      "ecoTip": "Refillable bottle saves 2kg plastic yearly"
+    }
+  },
+  {
+    "id": "alt4",
+    "name": "Natural Loofah Sponge",
+    "brand": "EarthScrub",
+    "material": "Loofah Plant",
+    "packaging": "Paper Wrap",
+    "ecoScore": 86,
+    "certifications": ["Plastic-Free"],
+    "breakdown": {
+      "water": 200,
+      "carbon": 4,
+      "recyclability": 100,
+      "packaging": "Paper Wrap",
+      "certifications": ["Plastic-Free"],
+      "ecoTip": "100% compostable alternative"
+    }
+  },
+  {
+    "id": "alt5",
+    "name": "Reusable Bamboo Towels",
+    "brand": "GreenWipe",
+    "material": "Bamboo",
+    "packaging": "Recyclable Box",
+    "ecoScore": 89,
+    "certifications": ["FSC"],
+    "breakdown": {
+      "water": 250,
+      "carbon": 6,
+      "recyclability": 100,
+      "packaging": "Recyclable Box",
+      "certifications": ["FSC"],
+      "ecoTip": "Each towel replaces 100 paper sheets"
+    }
+  },
+  {
+    "id": "alt6",
+    "name": "Plastic-Free Deodorant",
+    "brand": "EcoFresh",
+    "material": "Natural Oils",
+    "packaging": "Cardboard Tube",
+    "ecoScore": 90,
+    "certifications": ["Organic"],
+    "breakdown": {
+      "water": 300,
+      "carbon": 5,
+      "recyclability": 100,
+      "packaging": "Cardboard Tube",
+      "certifications": ["Organic"],
+      "ecoTip": "Avoids 40 plastic tubes per year"
+    }
+  },
+  {
+    "id": "alt7",
+    "name": "Compostable Coffee Pods",
+    "brand": "BrewGreen",
+    "material": "Compostable Fiber",
+    "packaging": "Paper Box",
+    "ecoScore": 84,
+    "certifications": ["Compostable"],
+    "breakdown": {
+      "water": 200,
+      "carbon": 8,
+      "recyclability": 90,
+      "packaging": "Paper Box",
+      "certifications": ["Compostable"],
+      "ecoTip": "Breaks down naturally in compost"
+    }
+  },
+  {
+    "id": "alt1",
+    "name": "Bamboo Water Bottle",
+    "brand": "EcoSip",
+    "material": "Bamboo",
+    "packaging": "Recycled Paper",
+    "ecoScore": 88,
+    "certifications": ["Fair Trade", "Plastic-Free"],
+    "breakdown": {
+      "water": 400,
+      "carbon": 6,
+      "recyclability": 90,
+      "packaging": "Recycled Paper",
+      "certifications": ["Fair Trade", "Plastic-Free"],
+      "ecoTip": "Switching saves 600L water"
+    }
+  },
+  {
+    "id": "alt2",
+    "name": "Hemp Tote Bag",
+    "brand": "GreenStyle",
+    "material": "Hemp",
+    "packaging": "Compostable",
+    "ecoScore": 91,
+    "certifications": ["GOTS", "FSC"],
+    "breakdown": {
+      "water": 300,
+      "carbon": 5,
+      "recyclability": 95,
+      "packaging": "Compostable",
+      "certifications": ["GOTS", "FSC"],
+      "ecoTip": "Reduces plastic usage by 90%"
+    }
+  }
+]
