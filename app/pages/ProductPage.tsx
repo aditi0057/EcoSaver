@@ -301,7 +301,7 @@ const ProductPage: React.FC = () => {
       {/* Filters */}
       <div className="max-w-6xl mx-auto mb-6">
         <h1 className="text-2xl font-bold text-green-700 mb-4">
-          Walmart EcoScore
+          Smart EcoScore
         </h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
           <FilterToggle

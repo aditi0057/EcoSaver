@@ -14,7 +14,7 @@ export default function HomePage() {
           transition={{ duration: 1 }}
           className="text-4xl md:text-5xl font-bold text-green-700 hover:scale-105 hover:text-green-800 transition-transform duration-300"
         >
-          Shop Smarter, Greener with Walmart EcoScore
+          Shop Smarter, Greener with EcoSaver
         </motion.h1>
 
         {/* CTA */}
@@ -81,8 +81,8 @@ export default function HomePage() {
               Filter for Greener Products
             </h3>
             <p className="text-gray-600">
-              Quickly filter and view sustainable, low-impact products across
-              Walmart.
+              Quickly filter and view sustainable, low-impact products.
+              
             </p>
           </motion.div>
         </div>
