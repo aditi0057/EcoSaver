@@ -6,7 +6,7 @@ import { generateCartImpactMessage } from "../utils/generateAImsg";
 import { ShoppingCart, Leaf } from "lucide-react";
 import mockGreenerDB from "../data/mockGreenerDB.json"; // your greener alt JSON DB
 
-const Base_URL = "http://localhost:8000";
+const Base_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 export type Product = {
   product_id: number;
   product_name: string;

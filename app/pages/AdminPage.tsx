@@ -11,7 +11,7 @@ const AdminPage: React.FC = () => {
   const [certifications, setCertifications] = useState<string[]>([]);
   const [successMsg, setSuccessMsg] = useState("");
 
-  const BASE_URL = "http://localhost:8000";
+  const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
   useEffect(() => {
     if (parsedData) {
@@ -147,7 +147,7 @@ const AdminPage: React.FC = () => {
         animate={{ opacity: 1, y: 0 }}
         className="text-3xl font-bold text-green-700 mb-6 text-center"
       >
-        🛠 Admin Upload Dashboard
+        🛠 Parse Your Product Excel
       </motion.h1>
 
       {/* Upload Section */}

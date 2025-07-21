@@ -32,8 +32,8 @@ export default function RootLayout() {
           <Link to="/cart" className="hover:text-green-600 transition">
             Cart
           </Link>
-          <Link to="/admin" className="hover:text-green-600 transition">
-            Admin
+          <Link to="/ecoparse" className="hover:text-green-600 transition">
+            EcoParse
           </Link>
         </nav>
       </header>

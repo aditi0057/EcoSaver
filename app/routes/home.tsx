@@ -42,9 +42,9 @@ export default function HomePage() {
             <div className="text-green-500 text-5xl mb-4 mx-auto">
               <FaLeaf />
             </div>
-            <h3 className="text-xl font-semibold mb-2">AI-Powered EcoScore</h3>
+            <h3 className="text-xl font-semibold mb-2">Smartly Calculated EcoScore</h3>
             <p className="text-gray-600">
-              Smart analysis of materials and packaging using AI to give clear
+              Smart analysis of materials and packagi to give clear
               impact scores.
             </p>
           </motion.div>
